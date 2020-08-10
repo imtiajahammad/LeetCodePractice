@@ -10,15 +10,17 @@ namespace LeetCodePractice
     {
         static void Main(string[] args)
         {
-            int[] aa = {1,9 ,9,9};
-            //int[] aa = { 7, 2, 8, 5, 0, 9, 1, 2, 9, 5, 3, 6, 6, 7, 3, 2, 8, 4, 3, 7, 9, 5, 7, 7, 4, 7, 4, 9, 4, 7, 0, 1, 1, 1, 7, 4, 0, 0, 6 };
-            //int[] aa = { 9,8,7,6,5,4,3,2,1,0};
-            int[] resutlt=PlusOne(aa);
-            for(int i = 0; i < resutlt.Length; i++)
-            {
-                Console.Write(resutlt[i] + "  ");
-            }
+            int[] aa={ 0, 1, 0, 3, 12};
+            //Output: [1, 3, 12, 0, 0]
+            MoveZeroes(aa);
             Console.ReadKey();
+        }
+        static void MoveZeroes(int[] nums)
+        {
+            for(int i = 0; i < nums.Length; i++)
+            {
+                Console.Write(nums[i]+ "  ");
+            }
         }
         static int[] PlusOne(int[] digits)
         {
