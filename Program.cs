@@ -97,3 +97,11 @@ Console.WriteLine("#random1->start--Remove Duplicates from Sorted Array");
             Console.WriteLine("#random11->end--Merge_two_sorted_lists");
 
 
+            Console.WriteLine("-----------------------------------------------------------------");
+            Console.WriteLine("#random11->start--Remove_Duplicates_from_Sorted_List");
+            Console.WriteLine();
+            Remove_Duplicates_from_Sorted_List remove_Duplicates_From_Sorted_List = new Remove_Duplicates_from_Sorted_List();
+            Console.WriteLine();
+            Console.WriteLine("#random11->end--Remove_Duplicates_from_Sorted_List");
+
+
