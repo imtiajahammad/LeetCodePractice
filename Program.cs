@@ -112,3 +112,14 @@ Console.WriteLine("#random1->start--Remove Duplicates from Sorted Array");
             Console.WriteLine("#random13->end--Roman_to_Integer");
 
 
+
+            Console.WriteLine("-----------------------------------------------------------------");
+            Console.WriteLine("#random9->start--ContainsDuplicate_2");
+            Console.WriteLine();
+            ContainsDuplicate_2 containsDuplicate_2 = new ContainsDuplicate_2();
+            Console.WriteLine();
+            Console.WriteLine("#random9->end--ContainsDuplicate_2");
+
+
+
+
