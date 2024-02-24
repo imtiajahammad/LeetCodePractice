@@ -122,4 +122,13 @@ Console.WriteLine("#random1->start--Remove Duplicates from Sorted Array");
 
 
 
+            Console.WriteLine("-----------------------------------------------------------------");
+            Console.WriteLine("#random10->start--Valid_Anagram_2");
+            Console.WriteLine();
+            Valid_Anagram_2 valid_Anagram_2 = new Valid_Anagram_2();
+            Console.WriteLine();
+            Console.WriteLine("#random10->end--Valid_Anagram_2");
+
+
+
 
