@@ -130,5 +130,10 @@ Console.WriteLine("#random1->start--Remove Duplicates from Sorted Array");
             Console.WriteLine("#random10->end--Valid_Anagram_2");
 
 
-
+            Console.WriteLine("-----------------------------------------------------------------");
+            Console.WriteLine("#random11->start--Two_Sum");
+            Console.WriteLine();
+            Two_Sum obj = new Two_Sum();
+            Console.WriteLine();
+            Console.WriteLine("#random11->end--Two_Sum");
 
