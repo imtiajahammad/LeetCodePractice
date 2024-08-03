@@ -137,3 +137,12 @@ Console.WriteLine("#random1->start--Remove Duplicates from Sorted Array");
             Console.WriteLine();
             Console.WriteLine("#random11->end--Two_Sum");
 
+
+            
+            Console.WriteLine("-----------------------------------------------------------------");
+            Console.WriteLine("#random12->start--Palindrome_number");
+            Console.WriteLine();
+            Palindrome_number palindrome_number = new Palindrome_number();
+            Console.WriteLine();
+            Console.WriteLine("#random12->end--Palindrome_number");
+
